@@ -1,3 +1,4 @@
+USE CasinoDatabase
 go
 
 CREATE TABLE Employees (
