@@ -1,10 +1,10 @@
 go
 
 CREATE TABLE Customers (
-    Cust_ID int PRIMARY KEY,
-    Cust_LName char(20),
-    Cust_FName char(20),
-    Cust_Age int,
-    Cust_Address char(20),
-    Cust_Phone_num int
+    Cust_ID INT PRIMARY KEY,
+    Cust_LName CHAR(20),
+    Cust_FName CHAR(20),
+    Cust_Age INT,
+    Cust_Address CHAR(20),
+    Cust_Phone_num INT
 )
