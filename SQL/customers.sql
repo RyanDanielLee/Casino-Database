@@ -7,5 +7,5 @@ CREATE TABLE Customers (
     Cust_FName CHAR(20),
     Cust_Age INT,
     Cust_Address CHAR(20),
-    Cust_Phone_num INT
+    Cust_Phone_Num INT
 )
